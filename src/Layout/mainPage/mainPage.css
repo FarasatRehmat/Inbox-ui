@@ -1,0 +1,63 @@
+body{
+    background-color: #F5F5F5;
+}
+
+.red{
+    background-color: #EA1F25 !important;
+}
+.blue{
+    background-color: #00AEEF !important;
+}
+.dark{
+    background-color: #393A3D !important;
+}
+.yellow{
+    background-color: #E3D81F !important;
+}
+.green{
+    background-color: #21F336 !important;
+}
+.grey{
+    background-color: #C4C4C4;
+}
+
+.circleIcon{
+    border: 2px solid black;
+    border-radius: 50px;
+    height: 1rem !important;
+    width: 1rem !important;
+}
+.card-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Staff-management{
+    display: flex;
+}
+.Staff-management-left{
+    background-color: #FFF;
+    margin: 2rem;
+}
+.staff-management-header{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 2rem;
+}
+.staff-management-header h2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 20px;
+    color: #000000;
+}
+.staff-management-header a{
+    color: #21F336 !important;
+    margin: auto 0rem;
+}
+.staff-management-body{
+    display: flex;
+    margin: 2rem auto;
+}

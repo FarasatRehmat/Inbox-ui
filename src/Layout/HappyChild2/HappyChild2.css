@@ -1,0 +1,46 @@
+.HappyChild2-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Arrow-Down{
+    transform: rotate(-90deg);
+    position: relative;
+    top: -0.4rem;
+}
+.blue{
+    background-color: #00AEEF;
+}
+.HC-btn2{
+    background-color: #EA1F25 !important;
+    color: white !important;
+    margin:auto 1rem !important;
+    height: 4rem !important;
+}
+.HC-btn2 span{
+    margin-right: 1rem;
+}
+.HappyChild2-container{
+    background-color: white;
+    height: 30rem;
+    margin: 1rem;
+}
+.HappyChild2-header h2{
+    margin-left: 1rem;
+}
+.HC-List2{
+    color: white;
+    margin: 1rem auto;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    margin: 1rem;
+}
+.HC-List2 span{
+    font-style: normal;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 14px;
+    margin: auto 1.4rem;
+}

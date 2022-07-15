@@ -1,0 +1,45 @@
+.AttdenceBody{
+    background-color: #FFF;
+    margin: 0rem 2rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+.AttdenceCilcle-container{
+    margin: auto 3rem;
+}
+.AttdenceCilcle{
+    background: #393A3D;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 121px;
+    height: 121px;
+    border-radius: 50%;
+    border: 50px solid #EA1F25;
+}
+.AttdenceCilcle h2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin: 0px !important;
+}
+.AttdenceCilcle h3{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin: 0px !important;
+
+}
+
+.Attdencebtn{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}

@@ -1,0 +1,40 @@
+.Card-header{
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+    margin: 2rem 2rem 0px;
+    background-color: #FFF;
+    justify-content: space-between;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom: 2px solid #F5F5F5;
+}
+.Card-header h3{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 20px;
+    color: #000000;
+    margin-left: 1rem;
+}
+.Card-header span{
+    margin: auto 1rem;
+}
+.cardbox{
+    color: #FFF;
+    width: 3.5rem;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FDFDFD;
+    margin: 1rem 1rem 1rem 4rem;
+    border-radius: 5px;
+}
+

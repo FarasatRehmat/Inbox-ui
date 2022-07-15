@@ -1,0 +1,57 @@
+.RP-container{
+    margin: 0px 2rem 3rem 2rem;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+}
+.Rp-header{
+    padding: 1rem 2rem;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-style: normal;
+    line-height: 20px;
+    font-size: 16px;
+}
+.RP-left{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.Rp-btn-grp{
+    margin-left: 1rem;
+}
+.Rp-btn-grp Button{
+    color: white !important;
+    border-radius: 4px !important;
+    height: 50px !important;
+    padding: auto 2rem !important;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-style: normal;
+    line-height: 20px;
+    font-size: 14px;
+    margin: 1rem 1rem !important;
+}
+.Rp-Right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 3;
+    margin: 5rem auto;
+}
+.Sad-Emoji{
+    color: #EA1F25;
+    font-size: 6rem !important;
+}
+.Rp-Right h4{
+    color: #EA1F25;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-style: normal;
+    line-height: 20px;
+    margin: 0px;
+}
+.Rp-Right span{
+    color: grey;
+}

@@ -1,0 +1,36 @@
+.RecentComments-container{
+    margin: auto 2rem;
+    background-color: #fff;
+}
+.RecentComments-container h2{
+    padding: 1rem;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-style: normal;
+    line-height: 20px;
+    font-size: 24px;
+}
+
+.RC-List{
+    margin: 1rem;
+    height: 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.RC-List div span{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #fff;
+    padding: 1rem !important;
+}
+.RC-List .RC-List-left span{
+    margin: auto 2rem;
+}
+.RC-text p{
+    margin: 2rem auto 4rem 1rem;
+    padding-bottom: 3rem;
+}
